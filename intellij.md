@@ -14,10 +14,13 @@
 ### Refactor
 - `⌘T` : refactor this
 - `⇧F6` : rename...
+- `⌥⌘V` : insert variable
 
 ### Code
+- `^Enter` : generate
+- `⌥Enter` : quick fix
 - `⌥⌘L` : reformat file
-- `⇧⌘Enter` : complete method braces (from inside method parameter list)
+- `⇧⌘Enter` : complete line
 - `⌘D` : duplicate line
 - `⇧⌥↑` : move line up
 - `⇧⌥↓` : move line down
@@ -26,4 +29,5 @@
 
 ## Shorthands
 
-- `psvm` : `public static void main()`...
+- `psvm` : `public static void main() {`...
+- `sout` : `System.out.println(...)`
