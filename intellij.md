@@ -31,3 +31,8 @@
 
 - `psvm` : `public static void main() {`...
 - `sout` : `System.out.println(...)`
+
+## Project settings
+
+When gradle is installed with brew, the local installation can be found at `/usr/local/opt/gradle/libexec`.
+See [IntelliJ cannot find Gradle Home Location](http://stackoverflow.com/questions/18495474/intellij-cannot-find-gradle-home-location)
